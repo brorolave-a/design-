@@ -1,19 +1,19 @@
 body {
-  font-family: Arial, sans-serif;
+  font-family: Comic Sans MS, sans-serif;
   display: flex;
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background-color: #f0f0f0;
+  background-color: #ffcccc;
 }
 
 .card {
-  background-color: #ffffff;
+  background-color: #000080;
   padding: 20px;
   border-radius: 15px;
   box-shadow: 0 5px 15px rgba(0,0,0,0.1);
   text-align: center;
-  width: 300px;
+  width: 350px;
 }
 
 button {
@@ -21,7 +21,7 @@ button {
   padding: 10px 15px;
   border: none;
   border-radius: 10px;
-  background-color: #4CAF50;
+  background-color  #ff5733;
   color: white;
   cursor: pointer;
 }
